@@ -1,1 +1,2 @@
 # Hangman
+Pretty self explanatory
